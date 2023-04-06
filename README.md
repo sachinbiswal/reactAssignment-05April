@@ -7,7 +7,7 @@
 ### B
 ### C 
 ### D
-### The all components are in parent child relation our task is to send data from A component to D and vice versa component i.e from Parent component to child component.
+### The all components are in parent child relation our task is to send data from A component to D component i.e from Parent component to child component.
 ## contextAPI has four steps 
 ### 1) createContext
 ### 2) Make context available to all component
