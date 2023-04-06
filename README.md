@@ -7,9 +7,9 @@
 ### B
 ### C 
 ### D
-### The all components are in parent child relation our task is to send data from A component to B component
+### The all components are in parent child relation our task is to send data from A component to B component i.e from Parent component to child component.
 ## contextAPI has four steps 
-###1) createContext
-###2) Make context available to all component
-###3)Parent component will store the data in context
-###4)Consume the data in required by child component
+### 1) createContext
+### 2) Make context available to all component
+### 3) Parent component will store the data in context
+### 4) Consume the data in required by child component
